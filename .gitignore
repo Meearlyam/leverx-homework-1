@@ -1,4 +1,4 @@
 doc
 bin
-.jar
-manifest.mf
+*.jar
+MANIFEST.MF
