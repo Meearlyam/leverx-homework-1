@@ -8,7 +8,7 @@ javac src/by/meearlyam/helloleverx/HelloLeverX.java
 ~~~
 java -cp ./src by.meearlyam.helloleverx.HelloLeverX
 ~~~
-* src directory is supposed to store pachages with java source files, so to separate source code and binary files (with .class extension) you need to create bin deirctory
+* src directory is supposed to store packages with java source files, so to separate source code and binary files (with .class extension) you need to create bin directory
 (mkdir bin) and run the following command:
 ~~~
 javac -d bin src/by/meearlyam/helloleverx/HelloLeverX.java
